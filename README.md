@@ -1,2 +1,2 @@
 # gitskills
-create a new branch for test.
+create a new test branch.
